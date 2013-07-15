@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Pagatintin]]></title>
-  <link href="http://hanklin.github.io/atom.xml" rel="self"/>
-  <link href="http://hanklin.github.io/"/>
-  <updated>2013-07-15T10:20:13+08:00</updated>
-  <id>http://hanklin.github.io/</id>
+  <link href="http://pagatintin.github.io/atom.xml" rel="self"/>
+  <link href="http://pagatintin.github.io/"/>
+  <updated>2013-07-15T11:31:37+08:00</updated>
+  <id>http://pagatintin.github.io/</id>
   <author>
     <name><![CDATA[Pagatintin]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Das absolutes Gehoër(絕對音感)]]></title>
-    <link href="http://hanklin.github.io/2013/07/15/das-absolutes-gehoer"/>
+    <link href="http://pagatintin.github.io/2013/07/15/das-absolutes-gehoer"/>
     <updated>2013-07-15T00:19:00+08:00</updated>
-    <id>http://hanklin.github.io/2013/07/15/das-absolutes-gehoer</id>
+    <id>http://pagatintin.github.io/2013/07/15/das-absolutes-gehoer</id>
     <content type="html"><![CDATA[<p>一般人認為絕對音感代表音樂家的實力好壞, 其實正好相反, 有許多音樂家表現
 出無趣味, 機械化的演奏或演唱.
 尼采說: 有些人無法成為思想家,是因為他的記憶力太好了.
@@ -38,9 +38,9 @@ von Carl Adolf Martienssen
   
   <entry>
     <title type="html"><![CDATA[Technique]]></title>
-    <link href="http://hanklin.github.io/2013/07/14/technique"/>
+    <link href="http://pagatintin.github.io/2013/07/14/technique"/>
     <updated>2013-07-14T16:02:00+08:00</updated>
-    <id>http://hanklin.github.io/2013/07/14/technique</id>
+    <id>http://pagatintin.github.io/2013/07/14/technique</id>
     <content type="html"><![CDATA[<h1>關於技巧</h1>
 
 
